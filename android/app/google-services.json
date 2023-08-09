@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55254464633",
+    "project_id": "phone-sign-in-260799",
+    "storage_bucket": "phone-sign-in-260799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55254464633:android:39d11c86415b24e4603ca8",
+        "android_client_info": {
+          "package_name": "com.example.phone_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55254464633-oksbenkrqv07ea8ifa3rahoai4c4098m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBES4Ri6T9meBc7t1Y4Ur6fojHac5c9LzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55254464633-oksbenkrqv07ea8ifa3rahoai4c4098m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
